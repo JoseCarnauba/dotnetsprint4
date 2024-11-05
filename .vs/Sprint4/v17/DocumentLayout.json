@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jose Carnauba\\source\\repos\\Sprint4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A028CB7-B768-4727-BE32-B9C511004811}|Sprint4\\Sprint4.csproj|c:\\users\\jose carnauba\\source\\repos\\sprint4\\sprint4\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A028CB7-B768-4727-BE32-B9C511004811}|Sprint4\\Sprint4.csproj|solutionrelative:sprint4\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jose Carnauba\\source\\repos\\Sprint4\\Sprint4\\Views\\Auth\\login.cshtml",
+              "RelativeDocumentMoniker": "Sprint4\\Views\\Auth\\login.cshtml",
+              "ToolTip": "C:\\Users\\Jose Carnauba\\source\\repos\\Sprint4\\Sprint4\\Views\\Auth\\login.cshtml",
+              "RelativeToolTip": "Sprint4\\Views\\Auth\\login.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vx0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T00:53:06.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
